@@ -71,6 +71,7 @@ namespace Demo1
             int[] EvenNumbers = new int[3];
 
             EvenNumbers[0] = 1;
+            EvenNumbers[1] = 5;
 
             Console.WriteLine(EvenNumbers[0]);
 

@@ -4,3 +4,9 @@ c:\users\sshinde\documents\visual studio 2012\Projects\Demo1\Demo1\bin\Debug\Dem
 c:\users\sshinde\documents\visual studio 2012\Projects\Demo1\Demo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
 c:\users\sshinde\documents\visual studio 2012\Projects\Demo1\Demo1\obj\Debug\Demo1.exe
 c:\users\sshinde\documents\visual studio 2012\Projects\Demo1\Demo1\obj\Debug\Demo1.pdb
+C:\Users\sshinde\Documents\visual studio 2012\Projects\Demo1\CSharp_Practice\Demo1\bin\Debug\Demo1.exe.config
+C:\Users\sshinde\Documents\visual studio 2012\Projects\Demo1\CSharp_Practice\Demo1\obj\Debug\Demo1.exe
+C:\Users\sshinde\Documents\visual studio 2012\Projects\Demo1\CSharp_Practice\Demo1\obj\Debug\Demo1.pdb
+C:\Users\sshinde\Documents\visual studio 2012\Projects\Demo1\CSharp_Practice\Demo1\bin\Debug\Demo1.exe
+C:\Users\sshinde\Documents\visual studio 2012\Projects\Demo1\CSharp_Practice\Demo1\bin\Debug\Demo1.pdb
+C:\Users\sshinde\Documents\visual studio 2012\Projects\Demo1\CSharp_Practice\Demo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
