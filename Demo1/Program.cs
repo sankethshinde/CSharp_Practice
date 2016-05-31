@@ -72,6 +72,8 @@ namespace Demo1
 
             EvenNumbers[0] = 1;
             EvenNumbers[1] = 5;
+            EvenNumbers[2] = 5;
+
 
             Console.WriteLine(EvenNumbers[0]);
 
