@@ -186,19 +186,33 @@ namespace Demo1
                 Console.WriteLine(o);
             }
 
-            // Methods in C#
+            // Methods and parameters in C#
+
+            // Pass  by value and pass by reference
 
 
+            int value = 90;
 
 
-            Program.DisplayEvenNumbers();
+            Program.DisplayEvenNumbers(value);
+            Console.WriteLine("Value after pass by value" + value);
 
+            Program.DisplayEvenNumbersPassByReference(ref value);
+            Console.WriteLine("Value after pass by reference" + value);
             Console.Read();
         }
 
-        public static void DisplayEvenNumbers()
+        public static void DisplayEvenNumbers(int value)
         {
-            Console.WriteLine("Even Numbers ...");
+            Console.WriteLine("Even Numbers ..."+ value);
+
+            value = 10;
+        }
+        public static void DisplayEvenNumbersPassByReference(ref int value)
+        {
+            Console.WriteLine("Even Numbers ..." + value);
+
+            value = 10;
         }
         }
 
