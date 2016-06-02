@@ -149,7 +149,7 @@ namespace Demo1
 
             }
 
-            Console.WriteLine("Do you want to buy more coffee");
+            Console.WriteLine("Do you want to buy more coffee : ");
 
             string UserDecision = Console.ReadLine();
 
@@ -167,14 +167,40 @@ namespace Demo1
             }
 
 
+            // do while loop atleast runs once anytime. It is generally used to display Menu.
+
+
+            EvenNumbers[0] = 1;
+            EvenNumbers[1] = 5;
+            EvenNumbers[2] = 5;
+
+
+            for (int m = 0; m < EvenNumbers.Length; m++)
+            {
+                Console.WriteLine(EvenNumbers[m]);
+            }
+
+
+            foreach(int o in EvenNumbers)
+            {
+                Console.WriteLine(o);
+            }
+
+            // Methods in C#
 
 
 
 
+            Program.DisplayEvenNumbers();
 
             Console.Read();
         }
-    }
+
+        public static void DisplayEvenNumbers()
+        {
+            Console.WriteLine("Even Numbers ...");
+        }
+        }
 
    /// <summary>
    /// This is sample class for demos.
