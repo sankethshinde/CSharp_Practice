@@ -1,0 +1,6 @@
+C:\Users\sshinde\Documents\Visual Studio 2012\Projects\Demo1\CSharp_Practice\NameSpaces\bin\Debug\NameSpaces.exe.config
+C:\Users\sshinde\Documents\Visual Studio 2012\Projects\Demo1\CSharp_Practice\NameSpaces\obj\Debug\NameSpaces.csprojResolveAssemblyReference.cache
+C:\Users\sshinde\Documents\Visual Studio 2012\Projects\Demo1\CSharp_Practice\NameSpaces\bin\Debug\NameSpaces.exe
+C:\Users\sshinde\Documents\Visual Studio 2012\Projects\Demo1\CSharp_Practice\NameSpaces\bin\Debug\NameSpaces.pdb
+C:\Users\sshinde\Documents\Visual Studio 2012\Projects\Demo1\CSharp_Practice\NameSpaces\obj\Debug\NameSpaces.exe
+C:\Users\sshinde\Documents\Visual Studio 2012\Projects\Demo1\CSharp_Practice\NameSpaces\obj\Debug\NameSpaces.pdb

@@ -199,6 +199,12 @@ namespace Demo1
 
             Program.DisplayEvenNumbersPassByReference(ref value);
             Console.WriteLine("Value after pass by reference" + value);
+
+            int sum,product;
+            
+            Calculate(10, 20,out sum,out product);
+
+            Console.WriteLine(" Sum is {0} and product is {1}", sum, product);
             Console.Read();
         }
 
@@ -213,6 +219,22 @@ namespace Demo1
             Console.WriteLine("Even Numbers ..." + value);
 
             value = 10;
+        }
+
+        // Out in the method parameters. method can return only one datatype so for returning multiple values we use out parameter
+        public static void Calculate(int FN, int SN, out int sum, out int product)
+        {
+            sum = FN + SN;
+            product = FN * SN;
+        }
+
+        public static void ParamsArray(params int[] numbers)
+        {
+            int i = numbers.Length;
+            foreach (int j in numbers)
+            {
+                Console.WriteLine(j);
+            }
         }
         }
 
